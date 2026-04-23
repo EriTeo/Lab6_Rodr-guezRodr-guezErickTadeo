@@ -1,0 +1,17 @@
+.header {
+  background: white;
+  border-bottom: 1px solid #ddd;
+  padding: 15px;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.link {
+  text-decoration: none;
+  color: #2c3e50;
+  font-weight: bold;
+}

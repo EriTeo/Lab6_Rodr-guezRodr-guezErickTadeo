@@ -1,0 +1,10 @@
+.section {
+  padding: 60px 20px;
+  background: #f4f4f4;
+}
+
+.link {
+  display: inline-block;
+  margin-top: 10px;
+  color: #2c3e50;
+}
