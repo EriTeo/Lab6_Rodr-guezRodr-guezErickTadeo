@@ -1,4 +1,6 @@
 import Image from "next/image";
+import Header from "./Components/Header/Header";
+import CV from "./Components/CV/CV";
 
 export default function Home() {
   return (

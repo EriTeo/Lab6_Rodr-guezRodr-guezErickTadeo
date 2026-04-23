@@ -1,0 +1,36 @@
+.container {
+    width: 80%;
+    margin: auto;
+    background: white;
+    padding: 40px;
+}
+
+.header {
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 20px;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+section {
+    margin-top: 30px;
+}
+
+h2 {
+    color: #34495e;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+ul {
+    line-height: 1.8;
+}
+
+.contacto {
+    text-align: center;
+    margin-top: 10px;
+    color: #555;
+}
